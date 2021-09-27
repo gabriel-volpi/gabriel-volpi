@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Gabriel Volpi
 
 - 🔭 I’m currently working on Android Development on IFOOD
-- 🌱 I’m currently learning kotlin 
+- 🌱 I’m currently learning kotlin, fell free to see my repositories 
 - 📫 How to reach me: gabrieldomingues06@gmail.com
 - 😄 Pronouns: he/him
 

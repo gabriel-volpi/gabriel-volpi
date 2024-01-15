@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on Android Development on IFOOD
 - 🌱 I’m currently learning kotlin, fell free to see my repositories 
 - 📫 How to reach me: gabrieldomingues06@gmail.com
-- 😄 Pronouns: he/him
+- Check on my last Android project: https://github.com/gabriel-volpi/Restarant-App
 
 <div>
   <a href="https://github.com/gabriel-volpi">
